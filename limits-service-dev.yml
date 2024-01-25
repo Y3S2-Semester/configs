@@ -1,0 +1,3 @@
+limits-service:
+ minimum: 56
+ maximum: 996
